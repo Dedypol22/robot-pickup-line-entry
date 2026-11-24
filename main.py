@@ -2,9 +2,9 @@
 
 A robot's sensors are calibrated to measure everything precisely, so the
 joke is that the one thing they cannot measure is the person in front of
-it. Every reading collapses into a single word, "stay", turning the
-machine's total precision into helpless, charming honesty: it does not
-understand what is happening, only that it wants the moment to continue.
+it. Every reading collapses into a single word, "stay": the machine's total
+precision gives way to helpless, charming honesty — it cannot measure the
+person, only ask them not to leave.
 """
 
 import os
