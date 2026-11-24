@@ -30,6 +30,7 @@ def main() -> int:
     os.makedirs(directory, exist_ok=True)
     with open(os.path.join(directory, "entry.txt"), "wb") as handle:
         handle.write(encoded)
+    print(LINE)
     return 0
 
 
