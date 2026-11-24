@@ -1,6 +1,8 @@
 # Every Reading Just Says "Stay"
 
-[![make.fun](https://img.shields.io/badge/make.fun-The%20Robot%20Pickup%20Line%20Championship-blue)](https://make.fun/competitions/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b?ref=6gd2qs3v)
+[![make.fun · u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
+[![rank](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/Dedypol22/robot-pickup-line-entry/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
+[![reward](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/Dedypol22/robot-pickup-line-entry/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
 
 An entry for [The Robot Pickup Line Championship](https://make.fun/competitions/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b?ref=6gd2qs3v) on make.fun.
 
